@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section muted">
+  <div class="container">
+    <div class="section-title">
+      <h2>Trust & Transparency</h2>
+    </div>
+
+    <div class="trust-grid">
+      <div class="trust-item">Independent Organization</div>
+      <div class="trust-item">Community Support Initiative</div>
+      <div class="trust-item">Technology-Enabled Platform</div>
+      <div class="trust-item">WhatsApp Communication Support</div>
+      <div class="trust-item">Public Information Access</div>
+      <div class="trust-item">Not Affiliated With Government Agencies</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="contact">
+  <div class="container">
+    <div class="section-title">
+      <h2>Contact Information</h2>
+    </div>
+
+    <div class="contact-grid">
+      <div class="card">
+        <h3>Email</h3>
+        <p>contact@soochnamandir.com</p>
+      </div>
+
+      <div class="card">
+        <h3>WhatsApp</h3>
+        <p>+91 9148784178</p>
+      </div>
+
+      <div class="card">
+        <h3>Address</h3>
+        <p>
+          1946 21st A Main Rd<br />
+          HSR Layout, Sector 1st<br />
+          Bengaluru, Karnataka, India
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>SoochnaMandir</h3>
+      <p>
+        Technology-enabled citizen assistance and communication support.
+      </p>
+    </div>
+
+    <div>
+      <h4>Quick Links</h4>
+      <a href="index.html">Home</a>
+      <a href="vikassetu/index.html">VikasSetu</a>
+      <a href="privacy-policy.html">Privacy Policy</a>
+      <a href="disclaimer.html">Disclaimer</a>
+    </div>
+
+    <div>
+      <h4>Contact</h4>
+      <p>contact@soochnamandir.com</p>
+      <p>+91 9148784178</p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    © 2026 SoochnaMandir. All rights reserved.
+  </div>
+</footer>
+
+<script src="assets/js/main.js"></script>
+</body>
+</html>

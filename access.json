@@ -1,0 +1,18 @@
+{
+  "project": "SoochnaMandir",
+  "domain": "soochnamandir.com",
+  "platform_type": "public_information_platform",
+  "organization_type": "independent",
+  "communication_support": true,
+  "public_information_access": true,
+  "government_affiliation": false,
+  "contact": {
+    "email": "contact@soochnamandir.com",
+    "whatsapp": "+919148784178"
+  },
+  "address": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  }
+}
