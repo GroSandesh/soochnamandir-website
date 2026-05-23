@@ -14,7 +14,6 @@ body {
 /* HERO */
 
 .hero {
-    position: relative;
     background: linear-gradient(135deg, #0f172a, #1e293b);
     color: white;
     padding: 100px 20px;
@@ -24,23 +23,6 @@ body {
 .hero-content {
     max-width: 950px;
     margin: auto;
-}
-
-/* TOP GSTIN */
-
-.top-gstin {
-    position: absolute;
-    top: 30px;
-    right: 40px;
-    background: rgba(255, 255, 255, 0.12);
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    color: #ffffff;
-    padding: 10px 18px;
-    border-radius: 12px;
-    font-size: 14px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    backdrop-filter: blur(10px);
 }
 
 .badge {
@@ -276,12 +258,5 @@ section {
 
     .gst-number {
         font-size: 22px;
-    }
-
-    .top-gstin {
-        position: static;
-        display: inline-block;
-        margin-bottom: 25px;
-        font-size: 12px;
     }
 }
