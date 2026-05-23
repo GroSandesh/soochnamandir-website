@@ -115,7 +115,6 @@ section {
 
 .contact-card p {
     font-size: 20px;
-    margin-bottom: 12px;
 }
 
 .contact-card a {
@@ -185,38 +184,6 @@ section {
     color: #9ca3af;
 }
 
-/* GST CARD */
-
-.gst-card {
-    border: 2px solid #2563eb;
-    background: linear-gradient(135deg, #eff6ff, #ffffff);
-}
-
-.gst-highlight {
-    background: #0f172a;
-    color: white;
-    padding: 20px;
-    border-radius: 14px;
-    margin: 20px 0;
-    text-align: center;
-}
-
-.gst-label {
-    font-size: 14px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: #cbd5e1;
-    margin-bottom: 10px;
-}
-
-.gst-number {
-    font-size: 32px;
-    font-weight: 800;
-    letter-spacing: 2px;
-    color: #ffffff;
-    word-break: break-word;
-}
-
 /* MOBILE */
 
 @media (max-width: 768px) {
@@ -254,9 +221,5 @@ section {
 
     .quick-links a {
         text-align: center;
-    }
-
-    .gst-number {
-        font-size: 22px;
     }
 }
