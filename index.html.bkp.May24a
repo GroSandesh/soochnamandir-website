@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Soochna Mandir | Public Information & Civic Community Platform</title>
+
+    <meta name="description"
+        content="Soochna Mandir is an independent technology-enabled platform focused on civic communities, public information access, and citizen communication support." />
+
+    <meta name="keywords"
+        content="Soochna Mandir, civic communities, public information, citizen assistance, communication support, technology platform" />
+
+    <meta name="author" content="Soochna Mandir" />
+
+    <meta property="og:title" content="Soochna Mandir" />
+
+    <meta property="og:description"
+        content="Independent public information and civic communication platform." />
+
+    <meta property="og:type" content="website" />
+
+    <meta property="og:url" content="https://soochnamandir.com" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="twitter:title" content="Soochna Mandir" />
+
+    <meta name="twitter:description"
+        content="Technology-enabled citizen assistance, communication, and public information support." />
+
+    <link rel="stylesheet" href="style.css" />
+
+</head>
+
+<body>
+
+    <!-- HERO -->
+
+    <header class="hero">
+
+        <div class="hero-content">
+
+            <div class="top-gstin">
+                GSTIN: 29BDHPJ2024A1Z4
+            </div>
+
+            <div class="badge">
+                Official Website of Soochna Mandir • soochnaMandir.com
+            </div>
+
+            <h1 class="main-title">
+                Soochna Mandir
+            </h1>
+
+            <p class="subtitle">
+                Technology-enabled citizen assistance, communication,
+                and public information support.
+            </p>
+
+            <p class="hero-description">
+                An independent public information platform focused on civic
+                communities, communication support, and accessible public
+                information systems.
+            </p>
+
+        </div>
+
+    </header>
+
+    <!-- ABOUT -->
+
+    <section class="about-section">
+
+        <h2>About Soochna Mandir</h2>
+
+        <p>
+            Soochna Mandir is an independent technology-enabled platform focused
+            on publicly available civic and community information.
+        </p>
+
+        <p>
+            The platform supports public communication, citizen assistance,
+            information accessibility, and civic awareness initiatives through
+            digital systems and modern communication tools.
+        </p>
+
+        <p>
+            Soochna Mandir operates independently and is not affiliated with
+            government agencies.
+        </p>
+
+    </section>
+
+    <!-- TRUST -->
+
+    <section class="content-section">
+
+        <h2>Trust & Transparency</h2>
+
+        <div class="card-grid">
+
+            <div class="info-card">
+                Independent Organization
+            </div>
+
+            <div class="info-card">
+                Community Support Initiative
+            </div>
+
+            <div class="info-card">
+                Technology-Enabled Platform
+            </div>
+
+            <div class="info-card">
+                WhatsApp Communication Support
+            </div>
+
+            <div class="info-card">
+                Public Information Access
+            </div>
+
+            <div class="info-card">
+                Not Affiliated with Government Agencies
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- CONTACT -->
+
+    <section class="content-section">
+
+        <h2>Contact Information</h2>
+
+        <div class="contact-grid">
+
+            <div class="contact-card">
+
+                <h3>Email</h3>
+
+                <p>
+                    <a href="mailto:contact@soochnamandir.com">
+                        contact@soochnamandir.com
+                    </a>
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>WhatsApp</h3>
+
+                <p>
+                    <a href="https://wa.me/919148784178" target="_blank">
+                        +91 9148784178
+                    </a>
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>Address</h3>
+
+                <p>
+                    1946 21st A Main Rd<br />
+                    HSR Layout, Sector 1<br />
+                    Bengaluru, Karnataka, India
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- QUICK LINKS -->
+
+    <section class="content-section">
+
+        <h2>Quick Links</h2>
+
+        <div class="quick-links">
+
+            <a href="/">Home</a>
+
+            <a href="/vikassetu/">
+                Vikas Setu
+            </a>
+
+            <a href="/privacy-policy/">
+                Privacy Policy
+            </a>
+
+            <a href="/disclaimer/">
+                Disclaimer
+            </a>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer class="footer">
+
+        <div class="footer-content">
+
+            <h2>Soochna Mandir</h2>
+
+            <p>
+                Technology-enabled citizen assistance, communication,
+                and public information support.
+            </p>
+
+            <div class="footer-contact">
+
+                <p>contact@soochnamandir.com</p>
+
+                <p>+91 9148784178</p>
+
+            </div>
+
+            <p class="copyright">
+                © 2026 Soochna Mandir. All rights reserved.
+            </p>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
