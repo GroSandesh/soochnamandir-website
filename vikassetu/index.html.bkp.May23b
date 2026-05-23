@@ -4,17 +4,15 @@
 <head>
 
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0" />
-
-    <title>Vikas Setu | Soochna Mandir</title>
+    <title>VikasSetu | SoochnaMandir</title>
 
     <meta name="description"
-        content="Vikas Setu is an independent communication initiative operated by Soochna Mandir." />
+        content="VikasSetu is an independent communication initiative operated by SoochnaMandir." />
 
     <meta name="keywords"
-        content="Vikas Setu, Soochna Mandir, civic communication, WhatsApp support, citizen assistance" />
+        content="VikasSetu, SoochnaMandir, civic communication, WhatsApp support, citizen assistance" />
 
     <link rel="stylesheet" href="/style.css" />
 
@@ -29,15 +27,15 @@
         <div class="hero-content">
 
             <div class="badge">
-                Official Communication Initiative • Soochna Mandir
+                Official Communication Initiative • SoochnaMandir
             </div>
 
             <h1 class="main-title">
-                Vikas Setu
+                VikasSetu
             </h1>
 
             <p class="subtitle">
-                Communication support initiative operated by Soochna Mandir.
+                Communication support initiative operated by SoochnaMandir.
             </p>
 
             <p class="hero-description">
@@ -53,21 +51,21 @@
 
     <section class="about-section">
 
-        <h2>About Vikas Setu</h2>
+        <h2>About VikasSetu</h2>
 
         <p>
-            Vikas Setu is an independent communication initiative operated
-            under Soochna Mandir.
+            VikasSetu is an independent communication initiative
+            operated under SoochnaMandir.
         </p>
 
         <p>
             The initiative focuses on enabling communication support,
-            public accessibility, and community-oriented assistance through
-            digital systems and WhatsApp-based interaction.
+            public accessibility, and community-oriented assistance
+            through digital systems and WhatsApp-based interaction.
         </p>
 
         <p>
-            Vikas Setu is not affiliated with government agencies.
+            VikasSetu is not affiliated with government agencies.
         </p>
 
     </section>
@@ -115,12 +113,12 @@
             <div class="contact-card">
 
                 <h3>
-                    Is Vikas Setu a government service?
+                    Is VikasSetu a government service?
                 </h3>
 
                 <p>
-                    No. Vikas Setu is an independent communication initiative
-                    operated by Soochna Mandir.
+                    No. VikasSetu is an independent communication initiative
+                    operated by SoochnaMandir.
                 </p>
 
             </div>
@@ -132,8 +130,8 @@
                 </h3>
 
                 <p>
-                    Users communicate through the official WhatsApp
-                    support channel.
+                    Users communicate through the official
+                    WhatsApp support channel.
                 </p>
 
             </div>
@@ -192,7 +190,7 @@
                 <h3>Organization</h3>
 
                 <p>
-                    Operated by Soochna Mandir
+                    Operated by SoochnaMandir
                 </p>
 
             </div>
@@ -229,10 +227,10 @@
 
         <div class="footer-content">
 
-            <h2>Vikas Setu</h2>
+            <h2>VikasSetu</h2>
 
             <p>
-                Communication initiative by Soochna Mandir.
+                Communication initiative by SoochnaMandir.
             </p>
 
             <div class="footer-contact">
@@ -244,7 +242,7 @@
             </div>
 
             <p class="copyright">
-                © 2026 Soochna Mandir. All rights reserved.
+                © 2026 SoochnaMandir. All rights reserved.
             </p>
 
         </div>
