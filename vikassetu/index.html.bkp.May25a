@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0" />
+
+    <title>Vikas Setu | Soochna Mandir</title>
+
+    <meta name="description"
+        content="Vikas Setu is an independent communication initiative operated by Soochna Mandir." />
+
+    <meta name="keywords"
+        content="Vikas Setu, Soochna Mandir, civic communication, WhatsApp support, citizen assistance" />
+
+    <link rel="stylesheet" href="/style.css" />
+
+</head>
+
+<body>
+
+    <!-- HERO -->
+
+    <header class="hero">
+
+        <div class="hero-content">
+
+            <div class="top-gstin">
+                GSTIN: 29BDHPJ2024A1Z4
+            </div>
+
+            <div class="badge">
+                Official WhatsApp Communication Initiative • Soochna Mandir
+            </div>
+
+            <h1 class="main-title">
+                Vikas Setu
+            </h1>
+
+            <p class="subtitle">
+                Official WhatsApp-based communication and citizen support initiative.
+            </p>
+
+            <p class="hero-description">
+                Vikas Setu enables WhatsApp-based public interaction,
+                communication support, citizen assistance, and accessible
+                civic information services operated under Soochna Mandir.
+            </p>
+
+        </div>
+
+    </header>
+
+    <!-- ABOUT -->
+
+    <section class="about-section">
+
+        <h2>About Vikas Setu</h2>
+
+        <p>
+            Vikas Setu is an independent communication initiative operated
+            under Soochna Mandir.
+        </p>
+
+        <p>
+            The initiative focuses on enabling communication support,
+            public accessibility, and community-oriented assistance through
+            digital systems and WhatsApp-based interaction.
+        </p>
+
+        <p>
+            Vikas Setu is not affiliated with government agencies.
+        </p>
+
+    </section>
+
+    <!-- WHATSAPP COMMUNICATION -->
+
+    <section class="content-section">
+
+        <h2>WhatsApp-Based Communication</h2>
+
+        <div class="card-grid">
+
+            <div class="info-card">
+                Official WhatsApp Communication Support
+            </div>
+
+            <div class="info-card">
+                Mobile-Friendly Public Interaction
+            </div>
+
+            <div class="info-card">
+                Citizen Assistance Through WhatsApp
+            </div>
+
+            <div class="info-card">
+                Accessible Communication System
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- BENEFITS -->
+
+    <section class="content-section">
+
+        <h2>Benefits</h2>
+
+        <div class="card-grid">
+
+            <div class="info-card">
+                WhatsApp-Based Communication
+            </div>
+
+            <div class="info-card">
+                Simple User Interface
+            </div>
+
+            <div class="info-card">
+                Mobile Accessibility
+            </div>
+
+            <div class="info-card">
+                Community-Oriented Support
+            </div>
+
+            <div class="info-card">
+                Easy Information Access
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- FAQ -->
+
+    <section class="content-section">
+
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="contact-grid">
+
+            <div class="contact-card">
+
+                <h3>
+                    Is Vikas Setu a government service?
+                </h3>
+
+                <p>
+                    No. Vikas Setu is an independent communication initiative
+                    operated by Soochna Mandir.
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>
+                    How does communication happen?
+                </h3>
+
+                <p>
+                    Users communicate through the official WhatsApp
+                    support channel.
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>
+                    Who can use the service?
+                </h3>
+
+                <p>
+                    Citizens, NGOs, rural communities,
+                    and the general public.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- SUPPORT -->
+
+    <section class="content-section">
+
+        <h2>Official Support & Organization Information</h2>
+
+        <div class="contact-grid">
+
+            <div class="contact-card">
+
+                <h3>WhatsApp Support</h3>
+
+                <p>
+                    <a href="https://wa.me/919148784178" target="_blank">
+                        +91 9148784178
+                    </a>
+                </p>
+
+                <p>
+                    Official WhatsApp-based communication channel.
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>Email</h3>
+
+                <p>
+                    <a href="mailto:contact@soochnamandir.com">
+                        contact@soochnamandir.com
+                    </a>
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>Address</h3>
+
+                <p>
+                    1946 21st A Main Rd<br />
+                    HSR Layout, Sector 1<br />
+                    Bengaluru, Karnataka, India
+                </p>
+
+            </div>
+
+            <div class="contact-card">
+
+                <h3>Organization</h3>
+
+                <p>
+                    Operated by Soochna Mandir
+                </p>
+
+                <p>
+                    Trade Name: HAMARE SANDESH
+                </p>
+
+                <p>
+                    Legal Name: RAJKUMAR JINDAL
+                </p>
+
+            </div>
+
+            <div class="contact-card gst-card">
+
+                <h3>
+                    Registered Business Information
+                </h3>
+
+                <div class="gst-highlight">
+
+                    <p class="gst-label">
+                        GSTIN
+                    </p>
+
+                    <p class="gst-number">
+                        29BDHPJ2024A1Z4
+                    </p>
+
+                </div>
+
+                <p>
+                    <strong>Legal Name:</strong><br />
+                    RAJKUMAR JINDAL
+                </p>
+
+                <p>
+                    <strong>Trade Name:</strong><br />
+                    HAMARE SANDESH
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- QUICK LINKS -->
+
+    <section class="content-section">
+
+        <h2>Quick Links</h2>
+
+        <div class="quick-links">
+
+            <a href="/">Home</a>
+
+            <a href="/privacy-policy/">
+                Privacy Policy
+            </a>
+
+            <a href="/disclaimer/">
+                Disclaimer
+            </a>
+
+        </div>
+
+    </section>
+
+    <!-- FOOTER -->
+
+    <footer class="footer">
+
+        <div class="footer-content">
+
+            <h2>Vikas Setu</h2>
+
+            <p>
+                Communication initiative by Soochna Mandir.
+            </p>
+
+            <div class="footer-contact">
+
+                <p>contact@soochnamandir.com</p>
+
+                <p>+91 9148784178</p>
+
+            </div>
+
+            <p class="copyright">
+                © 2026 Soochna Mandir. All rights reserved.
+            </p>
+
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
