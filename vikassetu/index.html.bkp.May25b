@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Vikas Setu | Communication Initiative by Soochna Mandir</title>
+
+<meta
+    name="description"
+    content="Vikas Setu is a WhatsApp-based public communication initiative operated by Soochna Mandir for civic communication, citizen assistance, and accessible information support."
+/>
+
+<meta property="og:title" content="Vikas Setu" />
+<meta
+    property="og:description"
+    content="WhatsApp-based communication initiative by Soochna Mandir."
+/>
+
+<meta property="og:type" content="website" />
+
+<meta property="og:url" content="https://soochnamandir.com/vikassetu/" />
+
+<script src="https://cdn.tailwindcss.com"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:'Inter',sans-serif;
+    background:#f5f1ea;
+    color:#181818;
+}
+
+.serif{
+    font-family:'Source Serif 4',serif;
+}
+
+.hero{
+    background:
+    linear-gradient(
+        to bottom,
+        rgba(0,0,0,0.55),
+        rgba(0,0,0,0.72)
+    ),
+    url('https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1600&auto=format&fit=crop');
+    
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.section-spacing{
+    padding-top:7rem;
+    padding-bottom:7rem;
+}
+
+.fade-up{
+    opacity:0;
+    transform:translateY(30px);
+    transition:all 1s ease;
+}
+
+.fade-up.visible{
+    opacity:1;
+    transform:translateY(0);
+}
+
+</style>
+
+</head>
+
+<body>
+
+<section class="hero min-h-screen flex items-center">
+
+<div class="max-w-6xl mx-auto px-6 w-full">
+
+<div class="max-w-4xl">
+
+<div class="mb-10">
+
+<div class="inline-flex items-center gap-3 bg-white/10 backdrop-blur-md border border-white/10 rounded-full px-6 py-3 text-sm uppercase tracking-[0.18em] text-white/80">
+
+<span>Official Communication Initiative</span>
+
+</div>
+
+</div>
+
+<h1 class="serif text-white text-6xl md:text-8xl leading-none tracking-tight mb-10">
+Vikas Setu
+</h1>
+
+<p class="text-white/90 text-2xl md:text-4xl leading-relaxed max-w-5xl mb-12 font-light">
+
+WhatsApp-based communication support for citizens, civic communities, and public interaction systems.
+
+</p>
+
+<p class="text-white/70 text-lg md:text-2xl leading-relaxed max-w-4xl">
+
+Operated by Soochna Mandir as a structured and verified communication initiative focused on accessibility, identity-supported interaction, and human-centered assistance.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="section-spacing">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<div class="max-w-4xl fade-up">
+
+<div class="uppercase tracking-[0.25em] text-sm text-black/40 mb-6">
+About
+</div>
+
+<h2 class="serif text-5xl md:text-6xl leading-tight mb-12">
+About Vikas Setu
+</h2>
+
+<div class="space-y-10 text-xl leading-10 text-black/70">
+
+<p>
+
+Vikas Setu is a WhatsApp-enabled communication initiative designed to simplify public interaction and improve accessibility to structured communication support systems.
+
+</p>
+
+<p>
+
+The initiative enables citizens and communities to communicate through a familiar and verified messaging channel while maintaining identity-aware operational workflows.
+
+</p>
+
+<p>
+
+The communication model emphasizes accessibility, responsiveness, legitimacy, and real-world usability across diverse public environments.
+
+</p>
+
+<p>
+
+Vikas Setu operates under the broader institutional framework of Soochna Mandir.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="section-spacing border-t border-black/10">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<div class="max-w-5xl fade-up">
+
+<div class="uppercase tracking-[0.25em] text-sm text-black/40 mb-6">
+Communication Philosophy
+</div>
+
+<h2 class="serif text-5xl md:text-6xl leading-tight mb-14">
+Human-centered communication infrastructure.
+</h2>
+
+<div class="grid md:grid-cols-2 gap-12 text-lg leading-9 text-black/70">
+
+<div class="space-y-8">
+
+<p>
+
+Communication systems should feel accessible, understandable, and trustworthy to ordinary people.
+
+</p>
+
+<p>
+
+The platform prioritizes verified communication pathways through widely adopted messaging infrastructure.
+
+</p>
+
+</div>
+
+<div class="space-y-8">
+
+<p>
+
+The objective is not aggressive digital expansion, but calm, legitimate, and accountable communication support.
+
+</p>
+
+<p>
+
+The initiative is structured around operational transparency, accessibility, and institutional clarity.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="section-spacing border-t border-black/10 bg-black/[0.02]">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<div class="max-w-5xl fade-up">
+
+<div class="uppercase tracking-[0.25em] text-sm text-black/40 mb-6">
+Verification & Trust
+</div>
+
+<h2 class="serif text-5xl md:text-6xl leading-tight mb-14">
+Operational Transparency
+</h2>
+
+<div class="grid md:grid-cols-2 gap-10">
+
+<div class="border border-black/10 p-8 rounded-3xl bg-white">
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Organization
+</div>
+
+<div class="text-3xl font-semibold mb-4">
+Soochna Mandir
+</div>
+
+<p class="text-black/70 leading-8">
+Independent communication and public information platform.
+</p>
+
+</div>
+
+<div class="border border-black/10 p-8 rounded-3xl bg-white">
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+GST Registration
+</div>
+
+<div class="text-2xl font-semibold break-all mb-5">
+29BDHPJ2024A1Z4
+</div>
+
+<div class="space-y-3 text-black/70 leading-8">
+
+<p>
+Legal Name: RAJKUMAR JINDAL
+</p>
+
+<p>
+Trade Name: HAMARE SANDESH
+</p>
+
+</div>
+
+</div>
+
+<div class="border border-black/10 p-8 rounded-3xl bg-white">
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Communication Channel
+</div>
+
+<div class="text-2xl font-semibold mb-5">
+WhatsApp Support
+</div>
+
+<p class="text-black/70 leading-8">
+Structured messaging communication with identity-aware operational workflows.
+</p>
+
+</div>
+
+<div class="border border-black/10 p-8 rounded-3xl bg-white">
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Infrastructure
+</div>
+
+<div class="text-2xl font-semibold mb-5">
+Secure & Verified
+</div>
+
+<p class="text-black/70 leading-8">
+HTTPS-enabled infrastructure protected through Cloudflare edge systems and GitHub-managed deployment workflows.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section class="section-spacing border-t border-black/10">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<div class="max-w-5xl fade-up">
+
+<div class="uppercase tracking-[0.25em] text-sm text-black/40 mb-6">
+Support Information
+</div>
+
+<h2 class="serif text-5xl md:text-6xl leading-tight mb-16">
+Contact & Access
+</h2>
+
+<div class="grid md:grid-cols-2 gap-16">
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+WhatsApp
+</div>
+
+<a
+href="https://wa.me/919148784178"
+class="text-3xl serif hover:opacity-60 transition"
+>
++91 9148784178
+</a>
+
+</div>
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Email
+</div>
+
+<a
+href="mailto:contact@soochnamandir.com"
+class="text-2xl break-all hover:opacity-60 transition"
+>
+contact@soochnamandir.com
+</a>
+
+</div>
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Office
+</div>
+
+<p class="text-lg leading-9 text-black/70">
+
+1946 21st A Main Rd<br>
+HSR Layout, Sector 1<br>
+Bengaluru, Karnataka, India
+
+</p>
+
+</div>
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-5">
+Institutional Positioning
+</div>
+
+<p class="text-lg leading-9 text-black/70">
+
+“This appears to be a real operational communication platform with visible ownership, transparent structure, and legitimate organizational identity.”
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<footer class="border-t border-black/10 py-20">
+
+<div class="max-w-6xl mx-auto px-6">
+
+<div class="grid md:grid-cols-3 gap-16">
+
+<div>
+
+<h3 class="serif text-3xl mb-6">
+Vikas Setu
+</h3>
+
+<p class="text-black/60 leading-8">
+
+Communication initiative operated by Soochna Mandir.
+
+</p>
+
+</div>
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-6">
+Quick Links
+</div>
+
+<div class="space-y-4 text-lg">
+
+<a href="/" class="block hover:opacity-60 transition">
+Home
+</a>
+
+<a href="/privacy-policy/" class="block hover:opacity-60 transition">
+Privacy Policy
+</a>
+
+<a href="/disclaimer/" class="block hover:opacity-60 transition">
+Disclaimer
+</a>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="text-sm uppercase tracking-[0.2em] text-black/40 mb-6">
+Contact
+</div>
+
+<div class="space-y-4 text-lg text-black/70">
+
+<p>
+contact@soochnamandir.com
+</p>
+
+<p>
++91 9148784178
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="border-t border-black/10 mt-16 pt-10 text-sm text-black/50">
+
+© 2026 Soochna Mandir. All rights reserved.
+
+</div>
+
+</div>
+
+</footer>
+
+<script>
+
+const observer = new IntersectionObserver((entries)=>{
+
+entries.forEach((entry)=>{
+
+if(entry.isIntersecting){
+entry.target.classList.add('visible');
+}
+
+});
+
+},{threshold:0.1});
+
+document.querySelectorAll('.fade-up').forEach((el)=>{
+observer.observe(el);
+});
+
+</script>
+
+</body>
+
+</html>
